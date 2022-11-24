@@ -1,3 +1,22 @@
+# COMP 3123 - Full Stack Development
+## Lab Test 02 - By Nisarg Patel
+
+Welcome to my Lab Test 2 of Full Stack!
+
+Lab test 02 is about making a weather app, in which you can find weather of any city simply by entering the name of city and press the search button.
+
+Toronto weather screenshot:
+
+![Toronto Weather](./screenshots/toronto_weather.png)
+
+Anand weather screenshot: 
+
+![Hot Weather](./screenshots/anand_weather.png)
+
+Postman screenshot:
+
+![Postman Screenshot](./screenshots/postman.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
